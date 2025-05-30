@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Tensorus specific
+tensorus_tensors/
+tensorus_indices/
+*.h5
+*.faiss
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
