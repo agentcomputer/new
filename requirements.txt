@@ -1,0 +1,5 @@
+h5py
+psycopg2-binary
+numpy
+faiss-cpu
+transformers
